@@ -2,3 +2,6 @@
 .button{
   color: red
 }
+.title{
+  font-size: 26px
+}
